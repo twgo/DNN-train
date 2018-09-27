@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-# train go
+# judt train 
 MAINTAINER sih4sing5hong5
 
 ENV CPU_CORE 4
