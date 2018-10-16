@@ -28,4 +28,4 @@
 
 ## 產生系統
 * pian7sik4_he7thong2的docker build
-
+* `docker run .../hethong:203-16k-kasu tar -czvf - exp/chain/tdnn_1a_sp --exclude egs > 203-16k-kasu.rgz`
